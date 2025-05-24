@@ -4,8 +4,8 @@ import { FaTwitter, FaTelegramPlane, FaDiscord } from "react-icons/fa";
 const siteConfig = {
   siteName: "Profits, Not Lust",
   ctaText: "Buy $PNL",
-  chartLink: "https://dexscreener.com/solana/3735FeE3pfYn2DwYovQfwApnJEyvAtphSiyKGdk8RPNL",
-  buyLink: "https://raydium.io/swap/?inputMint=sol&outputMint=3735FeE3pfYn2DwYovQfwApnJEyvAtphSiyKGdk8RPNL",
+  chartLink: "https://pump.fun/coin/AZ5GDWSEzCXzr5JhvoJTNWgwKUjA1zQHdG1ne9ybe8pH",
+  buyLink: "https://raydium.io/swap/?inputMint=sol&outputMint=AZ5GDWSEzCXzr5JhvoJTNWgwKUjA1zQHdG1ne9ybe8pH",
   description: "Chase Gains, Not Desires. Green Candles, Not Ass.",
   stats: [],
   phantom: "https://phantom.app/",
@@ -14,7 +14,7 @@ const siteConfig = {
   coinbase: "https://www.coinbase.com/",
   raydium: "https://raydium.io/",
   jupiter: "https://jup.ag/",
-  contractAddress: "3735FeE3pfYn2DwYovQfwApnJEyvAtphSiyKGdk8RPNL",
+  contractAddress: "AZ5GDWSEzCXzr5JhvoJTNWgwKUjA1zQHdG1ne9ybe8pH",
   twitter: "https://x.com/i/communities/1922646036138639400",
   telegram: "https://t.me/",
   discord: "https://discord.com/invite/"
