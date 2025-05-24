@@ -2,7 +2,7 @@ import React from "react";
 import { FaTwitter, FaTelegramPlane, FaDiscord } from "react-icons/fa";
 
 const siteConfig = {
-  siteName: "Perky N Large",
+  siteName: "Profits, Not Lust",
   ctaText: "Buy $PNL",
   chartLink: "https://dexscreener.com/solana/8KKuRsYWi6aYP8oGTuGMU13fWcp2xTxx1drMUWdm5PNL",
   buyLink: "https://raydium.io/swap/?inputMint=sol&outputMint=8KKuRsYWi6aYP8oGTuGMU13fWcp2xTxx1drMUWdm5PNL",
@@ -79,7 +79,7 @@ export default function Home() {
         <div className="container mx-auto px-4 relative z-10 flex flex-col-reverse md:flex-row items-center justify-center gap-4 md:gap-12">
           <div className="md:w-1/2 max-w-md text-left md:text-left">
             <h1 className="text-4xl md:text-5xl font-extrabold leading-tight">
-              <span className="glow-flicker">P</span>erky <span className="glow-flicker">N</span> <span className="glow-flicker">L</span>arge
+              <span className="glow-flicker">Profits,</span> Not Lust 
             </h1>
             <p className="text-base md:text-lg text-gray-300 mt-6 px-4 py-3 border border-[#14da3f] rounded-lg inline-block whitespace-pre-line">
               {siteConfig.description}
