@@ -4,9 +4,9 @@ import { FaTwitter, FaTelegramPlane, FaDiscord } from "react-icons/fa";
 const siteConfig = {
   siteName: "Profits, Not Lust",
   ctaText: "Buy $PNL",
-  chartLink: "https://dexscreener.com/solana/8KKuRsYWi6aYP8oGTuGMU13fWcp2xTxx1drMUWdm5PNL",
-  buyLink: "https://raydium.io/swap/?inputMint=sol&outputMint=8KKuRsYWi6aYP8oGTuGMU13fWcp2xTxx1drMUWdm5PNL",
-  description: "The Only Pair That Never Dips.\n $PNL lifts portfolios and spirits -- naturally.",
+  chartLink: "https://dexscreener.com/solana/3735FeE3pfYn2DwYovQfwApnJEyvAtphSiyKGdk8RPNL",
+  buyLink: "https://raydium.io/swap/?inputMint=sol&outputMint=3735FeE3pfYn2DwYovQfwApnJEyvAtphSiyKGdk8RPNL",
+  description: "Chase Gains, Not Desires = Green Candles, Not Ass",
   stats: [],
   phantom: "https://phantom.app/",
   solflare: "https://solflare.com/",
@@ -14,8 +14,8 @@ const siteConfig = {
   coinbase: "https://www.coinbase.com/",
   raydium: "https://raydium.io/",
   jupiter: "https://jup.ag/",
-  contractAddress: "8KKuRsYWi6aYP8oGTuGMU13fWcp2xTxx1drMUWdm5PNL",
-  twitter: "https://x.com/i/communities/1922657992870404367",
+  contractAddress: "3735FeE3pfYn2DwYovQfwApnJEyvAtphSiyKGdk8RPNL",
+  twitter: "https://x.com/i/communities/1922646036138639400",
   telegram: "https://t.me/",
   discord: "https://discord.com/invite/"
 };
