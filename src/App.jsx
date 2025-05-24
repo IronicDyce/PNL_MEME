@@ -6,7 +6,7 @@ const siteConfig = {
   ctaText: "Buy $PNL",
   chartLink: "https://dexscreener.com/solana/3735FeE3pfYn2DwYovQfwApnJEyvAtphSiyKGdk8RPNL",
   buyLink: "https://raydium.io/swap/?inputMint=sol&outputMint=3735FeE3pfYn2DwYovQfwApnJEyvAtphSiyKGdk8RPNL",
-  description: "Chase Gains, Not Desires = Green Candles, Not Ass",
+  description: "Chase Gains, Not Desires. Green Candles, Not Ass.",
   stats: [],
   phantom: "https://phantom.app/",
   solflare: "https://solflare.com/",
@@ -118,10 +118,10 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center justify-center gap-1 md:gap-1">
             <div className="w-full max-w-sm grid gap-8 md:mr-2 h-[500px]">
               {[ 
-                { icon: "🔥", title: "Explosive Growth Potential", desc: "No sagging here. Perky tiddie-defying gravitiy tech." },
-                { icon: "🔒", title: "Locked & Loaded", desc: "Liquidity burned, contract renounced. Zero tax." },
-                { icon: "📈", title: "Zero Utility, Infinite Appeal", desc: "Because let's be honest -- you're not here for tech. You're here for the tits and the ticker." },
-                { icon: "🌐", title: "Community Oriented", desc: "A token for the bold, the based, and bag-holders who like their profits like their tokens -- Perky and Large!" }
+                { icon: "🔥", title: "Brotherhood", desc: "In an age of greed and impulse, the Brotherhood of PnL rose from the wreckage of red candles. We are not gamblers. We are not dreamers. We are traders with purpose." },
+                { icon: "🔒", title: "Discipline ", desc: "Code locked harder than a nun’s chastity belt. Liquidity? Burned hotter than your search history." },
+                { icon: "📈", title: "Zero Utility, Infinite Appeal", desc: "No utility, no shame. Just pure, unfiltered profit-thirst." },
+                { icon: "🌐", title: "Community Oriented", desc: "It’s not just about lust — it’s a tribe of like-minded degenerates who ironically reject lust in favor of the pump." }
               ].map((item, idx) => (
                 <div key={idx} className="bg-black/60 border border-[#14da3f] p-2 rounded-md hover:scale-105 transform transition duration-200 w-full mx-auto flex flex-col justify-start text-left h-full">
                   <div className="flex items-center gap-2 mb-1">
