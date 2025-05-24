@@ -118,8 +118,8 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center justify-center gap-1 md:gap-1">
             <div className="w-full max-w-sm grid gap-8 md:mr-2 h-[500px]">
               {[ 
-                { icon: "🔥", title: "Brotherhood", desc: "In an age of greed and impulse, the Brotherhood of PnL rose from the wreckage of red candles. We are not gamblers. We are not dreamers. We are traders with purpose." },
-                { icon: "🔒", title: "Discipline ", desc: "Code locked harder than a nun’s chastity belt. Liquidity? Burned hotter than your search history." },
+                { icon: "🔥", title: "Origin", desc: "In an age of greed and impulse, the Brotherhood of PnL rose from the wreckage of red candles. We are not gamblers. We are not dreamers. We are traders with purpose." },
+                { icon: "🔒", title: "Discipline ", desc: "forged in discipline. A cult born in the candles" },
                 { icon: "📈", title: "Zero Utility, Infinite Appeal", desc: "No utility, no shame. Just pure, unfiltered profit-thirst." },
                 { icon: "🌐", title: "Community Oriented", desc: "It’s not just about lust — it’s a tribe of like-minded degenerates who ironically reject lust in favor of the pump." }
               ].map((item, idx) => (
